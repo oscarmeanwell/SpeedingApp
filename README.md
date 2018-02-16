@@ -15,7 +15,7 @@ Where RAD is the radius, followed by Latitude and Longitude retrospectively.
 ## Speedometer
 
 Uses [this](https://github.com/Pygmalion69/Gauge) api - its very well documented.
-# Image
+# Pictures?
 
 ![Image](https://github.com/oscarmeanwell/SpeedingApp/blob/master/speedapp/img.png)
 
@@ -23,6 +23,6 @@ Uses [this](https://github.com/Pygmalion69/Gauge) api - its very well documented
 # APK?
 Sure, [here](https://github.com/oscarmeanwell/SpeedingApp/blob/master/speedapp/speedingApp.apk) you go.
 
-# Show me the code
+# Show me the code!
 
 Most the code is [here](https://github.com/oscarmeanwell/SpeedingApp/blob/master/speedapp/app/src/main/java/com/example/oscarmeanwell/sensorslab/MainActivity.java), take a look.
