@@ -1,4 +1,4 @@
-# Speeding
+# Drive Safety App
 A safe driving app
 
 A very simple app that gets the speed limit of your current location and displays your current speed on an analogue dial. If you go over the limit a warning sound is made. Has a splashscreen and a very ugly color scheme. 
